@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='fepolbhbggkabpekdoopjeepclgkgfmm'>
     <updatecheck
-      codebase='https://ambers21.github.io/Quick-Access-Extension/Ezekia%20QuickAccess%202.0.crx'
+      codebase='https://ambers21.github.io/Quick-Access-Extension/ezekia-quickaccess-2.0.crx'
       version='2.0' />
   </app>
 </gupdate>
